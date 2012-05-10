@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htmlStripper", "htmlStripper\htmlStripper.csproj", "{CA88496F-4875-4B81-8EDE-80B188C9C45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA88496F-4875-4B81-8EDE-80B188C9C45A}.Debug|x86.ActiveCfg = Debug|x86
+		{CA88496F-4875-4B81-8EDE-80B188C9C45A}.Debug|x86.Build.0 = Debug|x86
+		{CA88496F-4875-4B81-8EDE-80B188C9C45A}.Release|x86.ActiveCfg = Release|x86
+		{CA88496F-4875-4B81-8EDE-80B188C9C45A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
